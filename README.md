@@ -1,2 +1,2 @@
 My first commit
-am updating my readme
+i am updating my readme
